@@ -18,6 +18,7 @@ yoskOS, modern bir masaüstü işletim sistemi deneyimi sunan açık kaynaklı b
 
     git clone https://github.com/username/yoskOS.git
     cd yoskOS
+    cd code
 
 Gerekli bağımlılıkları yükleyin:
 
