@@ -29,7 +29,7 @@ Programı çalıştırın:
 
 
 
-    python main.py
+    python yoskOS.py
 
 Kullanım
 
