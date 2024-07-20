@@ -7,7 +7,7 @@ from PyQt5.QtGui import QIcon
 from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEngineProfile
 from PyQt5.QtCore import QUrl
 
-SAVE_DIRECTORY = "C:/Users/monster/Desktop/yoskOS/file"
+SAVE_DIRECTORY = "Desktop klasörü(örnek : C:\Users\monster\Desktop\yoskOS\file)"
 
 class DraggableButton(QtWidgets.QPushButton):
     def __init__(self, *args, **kwargs):
